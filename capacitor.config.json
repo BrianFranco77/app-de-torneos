@@ -1,0 +1,6 @@
+{
+  "appId": "com.torneo.ruletas",
+  "appName": "Torneo",
+  "webDir": "web",
+  "bundledWebRuntime": false
+}
